@@ -50,3 +50,6 @@ This is a notebook for step by step execution. You just need Hugging face API to
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in `CONTRIBUTING.md`.
+
+## Detailed Explanation
+Take a look at uploaded pdf named Nyayakosh for in-depth explanation about project, what is RAG and why a particular method is being used.
